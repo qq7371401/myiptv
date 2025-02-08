@@ -1,0 +1,72 @@
+#EXTINF:-1 tvg-name="GSTV Japan" tvg-id="" tvg-country="日本" tvg-language="日語" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021051759297_40.png" group-title="成人",[BD]cgntv japan
+https://stream1.freetv.fun/39c387b5a1bb11fc1950a4fd6b0a1e1ff46e319b8c162426132d69768a059af1.m3u8
+#EXTINF:-1 group-title="成人",Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
+#EXTINF:-1 group-title="成人",Brazzers
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8 
+#EXTINF:-1 group-title="成人",Dorcel
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8 
+#EXTINF:-1 group-title="成人",Eroxxx
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="成人",Extasy
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="成人",Erox HD
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="成人",Playboy HD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="成人",PassionXXX
+https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+#EXTINF:-1 group-title="成人",Leo HD
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="成人",Reality Kings HD
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="成人2",Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="成人2",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="成人2",MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="成人2",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="成人2",Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="成人2",Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="成人2",Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="成人2",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="成人2",Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="成人2",Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="成人2",POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="成人2",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="成人2",Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="成人2",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="成人2",Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="成人2",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="成人2",Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="成人2",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="成人2",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="成人2",Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="成人2",Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="成人2",Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="成人2",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="成人2",Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="成人2",Asian
+http://cdn.adultiptv.net/asian.m3u8

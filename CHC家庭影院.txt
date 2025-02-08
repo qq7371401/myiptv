@@ -1,0 +1,80 @@
+#EXTINF:-1 tvg-name="CHC動作CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png" group-title="CHC家庭影院",[HD]chc动作电影
+https://stream1.freetv.fun/d55f8444a0f39b81a169cd645abd85e822619c1c77a72ad0874f252b51ff769d.ctv
+#EXTINF:-1 tvg-name="CHC動作CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png" group-title="CHC家庭影院",[BD]chc动作电影
+https://stream1.freetv.fun/126ab50a45ea831286b07f8c1b9635d7c6ab1a63ac9bbe5744465fb8119e5d2b.ctv
+#EXTINF:-1 tvg-name="CHC動作CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png" group-title="CHC家庭影院",[VGA]chc动作电影
+https://stream1.freetv.fun/7286ef02c8b1dd522400745c1077ba0496f596f676701d0e12f9b3959feaaf70.m3u8
+#EXTINF:-1 tvg-name="CHC動作CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png" group-title="CHC家庭影院",[BD]chc动作电影
+https://stream1.freetv.fun/ecc6e6b4425168cd0572b1c8ac61920e64c773bed00a26a981ef1e32eb5aa930.m3u8
+#EXTINF:-1 tvg-name="CHC動作CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png" group-title="CHC家庭影院",[BD]CHC动作电影
+https://stream1.freetv.fun/db2b03a81692a8eae0b220e54bec1b35c2b50ff65676116d0332bb1e0defc869.ctv
+#EXTINF:-1 tvg-name="CHC動作CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png" group-title="CHC家庭影院",[BD]chc动作电影
+https://stream1.freetv.fun/bd022833292ad7c9cc7f961ee984c8cd022476f5fbedcac021a104260aeb62a0.ctv
+#EXTINF:-1 tvg-name="CHC動作CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png" group-title="CHC家庭影院",[BD]chc动作电影
+https://stream1.freetv.fun/006b3f2e27c8a3230cc32045d44cba89721e350f7b12bfff5ea1f0109a52c014.ctv
+#EXTINF:-1 tvg-name="CHC動作CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png" group-title="CHC家庭影院",[BD]chc动作电影
+https://stream1.freetv.fun/15258d3d4e90d77fee94d248c85f1f13dc842bf3f9bf804e3884c45abf42f273.ctv
+#EXTINF:-1 tvg-name="CHC動作CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png" group-title="CHC家庭影院",[BD]chc动作电影
+https://stream1.freetv.fun/7946cfbf7a25f09bf7af9af6724dd7390b5f7995454f354908695f819f161f3c.ctv
+#EXTINF:-1 tvg-name="CHC動作CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png" group-title="CHC家庭影院",[BD]chc动作电影
+https://stream1.freetv.fun/c9cda9e18bd11c70691ee6b5a11b60696f68071aaa24daa2f3e95d94e6f6466b.m3u8
+#EXTINF:-1 tvg-name="CHC動作CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png" group-title="CHC家庭影院",[BD]chc动作电影
+https://stream1.freetv.fun/2c01182e0e359af60676e5bc1d3dbc0eb14b24a16b95c34a0c8343bc6b2751e5.m3u8
+#EXTINF:-1 tvg-name="CHC動作CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png" group-title="CHC家庭影院",[BD]chc动作电影
+https://stream1.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv
+#EXTINF:-1 tvg-name="CHC動作CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png" group-title="CHC家庭影院",[VGA]chc动作电影
+https://stream1.freetv.fun/9e5dbc0cbb15ba574f44e0d67c54cff2c85a7ed97dbb73e3b2101b26fec45cf1.m3u8
+#EXTINF:-1 tvg-name="CHC動作CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png" group-title="CHC家庭影院",[BD]chc动作电影
+https://stream1.freetv.fun/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.ctv
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="CHC家庭影院",[BD]chc家庭影院
+https://stream1.freetv.fun/4ffe2185c27cec3fd1ebe3ee1255b5185bc24b857b9e4a79ee464b13b0f9db0f.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="CHC家庭影院",[BD]chc家庭影院
+https://stream1.freetv.fun/2e20d746f91612357ef5efbb0f5178ea6ef8fcd8d22951b36e3e02f44d0bd758.ctv
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="CHC家庭影院",[BD]chc家庭影院
+https://stream1.freetv.fun/a7da6445c1e09b6c04a04e62f117d67ddf77fb51603d25e04b7e21b53445aef9.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="CHC家庭影院",[BD]chc家庭影院
+https://stream1.freetv.fun/e1a2fbb0b1d50f86285035862649bd7cea0af358c3f3f65cfa7583273b5d960c.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="CHC家庭影院",[BD]chc家庭影院
+https://stream1.freetv.fun/16f1eb82e9c0595d7a29810b7259a0d02481e4c8c41bd426fa9843a4f4c97ea5.ctv
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="CHC家庭影院",[BD]chc家庭影院
+https://stream1.freetv.fun/71f06953d8268da88185671f0ad549396ea57fc4dd5c48bdfb0b5d59068202d5.ctv
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="CHC家庭影院",[BD]chc家庭影院
+https://stream1.freetv.fun/4baf8d6257afc16275e93604ac917bdd4bb3731c5a42f86ff10e33d652cfe91b.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="CHC家庭影院",[BD]chc家庭影院
+https://stream1.freetv.fun/97d2b320724c5aa7db2fb8518a7cf4bc6c34718baac397da3d049e522c45abb0.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="CHC家庭影院",[BD]chc家庭影院
+https://stream1.freetv.fun/4530af99822e82cc20d703812cbe49f98facdf419f9a2196f83bfb7943d6b4cd.ctv
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="CHC家庭影院",[BD]chc家庭影院
+https://stream1.freetv.fun/bac600b1515e7261bc1d626fe8ffe12f5ce3d5a200eb19c49c4ce869862557fc.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="CHC家庭影院",[BD]chc家庭影院
+https://stream1.freetv.fun/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="CHC家庭影院",[BD]chc家庭影院
+https://stream1.freetv.fun/d6c6dcdce08fdda05114649d8ceaa9c9fbf5e053724fa7b21a0b8e28bdeef696.ctv
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="CHC家庭影院",[BD]chc家庭影院
+https://stream1.freetv.fun/183c4742ee6f00b5553a0796a85f2cd8923f2792809b3028d386bc9f46a62878.ctv
+#EXTINF:-1 tvg-name="CHC影迷CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728161930253838_70.jpg" group-title="CHC家庭影院",[BD]chc影迷电影
+https://stream1.freetv.fun/4ed9bd69d3244280f356ca9a1700aa05cb4ecbc8e8e431648a66431f2400dd0f.m3u8
+#EXTINF:-1 tvg-name="CHC影迷CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728161930253838_70.jpg" group-title="CHC家庭影院",[BD]chc影迷电影
+https://stream1.freetv.fun/11fa74ffb8cfcd6eff836607344827a8dcaf15f893bef299b2287d127b63f87f.ctv
+#EXTINF:-1 tvg-name="CHC影迷CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728161930253838_70.jpg" group-title="CHC家庭影院",[BD]chc影迷电影
+https://stream1.freetv.fun/89dcf662d185d8ec04e70c74a9e34e628e584a6482ee0f880fb2dd9729114de0.ctv
+#EXTINF:-1 tvg-name="CHC影迷CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728161930253838_70.jpg" group-title="CHC家庭影院",[BD]chc影迷电影
+https://stream1.freetv.fun/31d928b615b45cccbedaf416383bb11ce2381bf94e627fc03949f88225e02bd0.ctv
+#EXTINF:-1 tvg-name="CHC影迷CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728161930253838_70.jpg" group-title="CHC家庭影院",[BD]chc影迷电影
+https://stream1.freetv.fun/e24ff1336a8c79c1168ea302b376712f0404865fb83e2ced04dc10d69699ed6a.m3u8
+#EXTINF:-1 tvg-name="CHC影迷CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728161930253838_70.jpg" group-title="CHC家庭影院",[BD]chc影迷电影
+https://stream1.freetv.fun/aa3ee8bf21fbc9e16b7082fb783cc75607712c664b53120b81ff0da47c59a253.m3u8
+#EXTINF:-1 tvg-name="CHC影迷CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728161930253838_70.jpg" group-title="CHC家庭影院",[BD]chc影迷电影
+https://stream1.freetv.fun/b32fceca8f554dc1936daba8c7e7c323323e238dfa907def1da34a5f5cfcb636.ctv
+#EXTINF:-1 tvg-name="CHC影迷CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728161930253838_70.jpg" group-title="CHC家庭影院",[BD]chc影迷电影
+https://stream1.freetv.fun/18a92f00b53c84609065ae87bdf7cfc6569c13edc3b44e48e8f84ba3c7460b36.m3u8
+#EXTINF:-1 tvg-name="CHC影迷CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728161930253838_70.jpg" group-title="CHC家庭影院",[BD]chc影迷电影
+https://stream1.freetv.fun/83a9d81ab7e5a184172559e71b5a82f2bf0abdad85ebfc85ca1af85134b3f485.ctv
+#EXTINF:-1 tvg-name="CHC影迷CHC家庭影院" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728161930253838_70.jpg" group-title="CHC家庭影院",[BD]chc影迷电影
+https://stream1.freetv.fun/fb1e407995dc9699c2f42ace7d757b89a8464140d0e6b1a16f384d63e50bb43d.m3u8
+#EXTINF:-1 tvg-name="M1905電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/03/large/20230703010639893858_37.jpeg" group-title="CHC家庭影院",[BD]1905电影网国
+https://stream1.freetv.fun/81b573ced3c262c2a8777e1d6c8933358c388ea485f99f7a7ca6da9ea7a6d55f.ctv
+#EXTINF:-1 tvg-name="M1905電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/03/large/20230703010639893858_37.jpeg" group-title="CHC家庭影院",[BD]1905电影网外
+https://stream1.freetv.fun/3c7cb1a92addf36fc1a2acfc9c2c5c4890455b897efc6053d2690f316b8c9db9.ctv
+#EXTINF:-1 tvg-name="M1905電影頻道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/03/large/20230703010639893858_37.jpeg" group-title="CHC家庭影院",[BD]1905电影网
+https://stream1.freetv.fun/afb04190f4e569215b1983abc29e11f04d7b95045a637f6fecb7f0d41dcb666c.ctv
